@@ -1,0 +1,480 @@
+2024-10-25 11:22:16,287:ERROR:Error interacting with OpenAI API: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-25 11:22:24,972:WARNING:Could not understand audio.
+2024-10-25 11:22:28,512:WARNING:Could not understand audio.
+2024-10-25 11:22:33,617:WARNING:Could not understand audio.
+2024-10-25 11:22:41,882:WARNING:Could not understand audio.
+2024-10-25 11:22:48,289:ERROR:Error interacting with OpenAI API: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-25 11:22:54,645:WARNING:Could not understand audio.
+2024-10-25 11:22:58,357:WARNING:Could not understand audio.
+2024-10-25 11:23:03,160:WARNING:Could not understand audio.
+2024-10-25 11:23:08,225:ERROR:Error interacting with OpenAI API: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-25 11:23:40,109:ERROR:Error interacting with OpenAI API: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-25 11:23:45,884:ERROR:Error interacting with OpenAI API: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-25 11:23:51,655:ERROR:Error interacting with OpenAI API: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-25 11:28:11,498:ERROR:Error interacting with OpenAI API: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-25 11:28:17,527:ERROR:Error interacting with OpenAI API: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-10-25 11:28:26,586:WARNING:Could not understand audio.
+2024-10-25 11:28:26,599:INFO:Audio command could not be understood. Retrying...
+2024-10-25 11:28:29,822:WARNING:Could not understand audio.
+2024-10-25 11:28:29,828:INFO:Audio command could not be understood. Retrying...
+2024-10-25 11:28:42,950:WARNING:Could not understand audio.
+2024-10-25 11:28:42,955:INFO:Audio command could not be understood. Retrying...
+2024-10-25 11:28:46,228:WARNING:Could not understand audio.
+2024-10-25 11:28:46,245:INFO:Audio command could not be understood. Retrying...
+2024-10-25 11:31:16,783:WARNING:Could not understand audio.
+2024-10-25 11:38:03,000:WARNING:Could not understand audio.
+2024-10-25 11:45:16,623:WARNING:Could not understand audio.
+2024-10-25 11:45:22,407:WARNING:Could not understand audio.
+2024-10-25 11:46:44,537:WARNING:Could not understand audio.
+2024-10-25 11:46:51,095:WARNING:Could not understand audio.
+2024-10-25 11:47:00,941:WARNING:Could not understand audio.
+2024-10-25 11:47:08,028:WARNING:Could not understand audio.
+2024-10-25 11:47:12,539:WARNING:Could not understand audio.
+2024-10-25 11:47:21,546:WARNING:Could not understand audio.
+2024-10-25 11:47:25,815:WARNING:Could not understand audio.
+2024-10-25 11:47:53,166:INFO:error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-10-25 11:48:11,633:WARNING:Could not understand audio.
+2024-10-25 11:48:14,304:WARNING:Could not understand audio.
+2024-10-25 11:56:15,981:INFO:error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-10-25 11:56:24,300:WARNING:Could not understand audio.
+2024-10-25 11:57:32,278:INFO:error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-10-25 11:57:39,832:INFO:error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-10-25 11:57:48,333:INFO:error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-10-25 11:57:57,416:INFO:error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-10-25 11:59:21,977:WARNING:Could not understand audio.
+2024-10-25 11:59:26,520:WARNING:Could not understand audio.
+2024-10-25 16:19:49,703:WARNING:Could not understand audio.
+2024-10-25 16:31:49,152:WARNING:Could not understand audio.
+2024-10-25 16:35:24,008:WARNING:Could not understand audio.
+2024-10-25 16:36:54,409:WARNING:Could not understand audio.
+2024-10-25 16:37:03,814:WARNING:Could not understand audio.
+2024-10-25 16:37:10,224:WARNING:Could not understand audio.
+2024-10-25 16:37:15,927:WARNING:Could not understand audio.
+2024-10-25 16:41:40,383:WARNING:Could not understand audio.
+2024-10-25 16:41:51,407:INFO:Listening timed out.
+2024-10-25 16:44:02,541:WARNING:Could not understand audio.
+2024-10-25 16:53:37,827:WARNING:Could not understand audio.
+2024-10-25 17:03:18,020:WARNING:Could not understand audio.
+2024-10-25 17:03:26,702:WARNING:Could not understand audio.
+2024-10-25 17:03:30,889:WARNING:Could not understand audio.
+2024-10-25 17:04:15,424:WARNING:Could not understand audio.
+2024-10-25 17:08:03,604:WARNING:Could not understand audio.
+2024-10-25 17:12:56,756:WARNING:Could not understand audio.
+2024-10-25 17:13:17,509:WARNING:Could not understand audio.
+2024-10-25 17:25:12,999:WARNING:Could not understand audio.
+2024-10-25 17:25:28,138:WARNING:Could not understand audio.
+2024-10-25 17:27:28,115:WARNING:Could not understand audio.
+2024-10-25 17:27:39,486:WARNING:Could not understand audio.
+2024-10-26 15:33:01,372:WARNING:Could not understand audio.
+2024-10-26 15:33:35,677:WARNING:Could not understand audio.
+2024-10-26 15:34:08,620:WARNING:Could not understand audio.
+2024-10-26 15:34:32,542:WARNING:Could not understand audio.
+2024-10-26 15:34:41,867:WARNING:Could not understand audio.
+2024-10-26 15:49:18,265:WARNING:Could not understand audio.
+2024-10-26 15:52:18,010:WARNING:Could not understand audio.
+2024-10-26 15:53:10,558:WARNING:Could not understand audio.
+2024-10-26 15:54:11,196:WARNING:Could not understand audio.
+2024-10-26 15:55:08,605:WARNING:Could not understand audio.
+2024-10-26 15:55:21,997:WARNING:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-10-26 16:04:03,183:WARNING:Could not understand audio.
+2024-10-26 16:04:16,256:WARNING:Could not understand audio.
+2024-10-26 16:06:35,668:WARNING:Could not understand audio.
+2024-10-26 16:06:59,300:WARNING:Could not understand audio.
+2024-10-26 16:07:22,407:WARNING:Could not understand audio.
+2024-10-26 16:07:34,877:WARNING:Could not understand audio.
+2024-10-26 16:07:47,272:WARNING:Could not understand audio.
+2024-10-26 16:09:47,007:WARNING:Could not understand audio.
+2024-10-26 16:11:06,018:WARNING:Could not understand audio.
+2024-10-26 16:35:18,474:WARNING:Could not understand audio.
+2024-10-26 16:36:08,380:WARNING:Could not understand audio.
+2024-10-26 16:37:05,616:WARNING:Could not understand audio.
+2024-10-26 16:37:52,851:WARNING:Could not understand audio.
+2024-10-26 16:38:09,092:WARNING:Could not understand audio.
+2024-10-26 16:38:27,818:WARNING:Could not understand audio.
+2024-10-26 16:40:00,356:WARNING:Could not understand audio.
+2024-10-26 16:40:44,119:WARNING:Could not understand audio.
+2024-10-26 16:41:05,645:WARNING:Could not understand audio.
+2024-10-26 16:41:34,016:WARNING:Could not understand audio.
+2024-10-26 16:41:44,355:WARNING:Could not understand audio.
+2024-10-26 16:42:14,587:WARNING:Could not understand audio.
+2024-10-26 16:43:18,900:WARNING:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-10-26 16:43:25,228:WARNING:Could not understand audio.
+2024-10-26 16:43:57,998:WARNING:Could not understand audio.
+2024-10-26 16:44:17,307:WARNING:Could not understand audio.
+2024-10-26 16:44:27,447:WARNING:Could not understand audio.
+2024-10-26 16:54:41,581:WARNING:Could not understand audio.
+2024-10-26 16:55:18,219:WARNING:Could not understand audio.
+2024-10-26 18:38:16,808:WARNING:Could not understand audio.
+2024-10-26 18:40:31,273:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-26 18:43:12,983:WARNING:Could not understand audio.
+2024-10-26 18:43:18,495:WARNING:Could not understand audio.
+2024-10-26 18:44:53,892:WARNING:Could not understand audio.
+2024-10-26 18:45:05,219:WARNING:Could not understand audio.
+2024-10-26 18:45:17,564:WARNING:Could not understand audio.
+2024-10-26 18:46:50,216:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-26 18:49:06,156:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-26 18:50:29,125:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-26 18:53:08,049:WARNING:Could not understand audio.
+2024-10-26 18:53:24,213:WARNING:Could not understand audio.
+2024-10-26 18:53:37,103:WARNING:Could not understand audio.
+2024-10-26 18:53:50,200:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-26 18:58:00,355:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-26 19:06:25,534:WARNING:Could not understand audio.
+2024-10-26 19:06:32,425:WARNING:Could not understand audio.
+2024-10-26 19:06:45,072:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-26 19:11:41,043:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-26 19:12:32,181:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-26 19:16:21,661:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-26 19:21:04,870:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-26 19:24:30,148:WARNING:Could not understand audio.
+2024-10-26 19:25:19,214:WARNING:Could not understand audio.
+2024-10-26 19:25:40,069:INFO:Listening timed out.
+2024-10-26 19:25:43,307:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-27 14:50:36,976:INFO:Listening timed out.
+2024-10-27 14:50:43,077:INFO:Listening timed out.
+2024-10-27 14:56:54,881:WARNING:Could not understand audio.
+2024-10-27 14:57:07,710:WARNING:Could not understand audio.
+2024-10-27 14:57:31,660:WARNING:Could not understand audio.
+2024-10-27 14:57:39,977:WARNING:Could not understand audio.
+2024-10-27 14:57:53,354:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-27 14:59:08,274:WARNING:Could not understand audio.
+2024-10-27 14:59:15,437:WARNING:Could not understand audio.
+2024-10-27 14:59:33,853:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-27 15:00:48,271:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-27 15:01:45,824:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-27 15:03:18,676:WARNING:Could not understand audio.
+2024-10-27 15:03:24,813:WARNING:Could not understand audio.
+2024-10-27 15:03:37,734:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-27 15:05:38,671:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-27 15:06:10,431:WARNING:Could not understand audio.
+2024-10-27 15:08:32,247:WARNING:Could not understand audio.
+2024-10-27 15:08:35,456:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-27 15:10:25,086:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-27 15:13:54,341:WARNING:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-10-28 20:17:13,163:WARNING:Could not understand audio.
+2024-10-28 20:17:22,841:WARNING:Could not understand audio.
+2024-10-28 20:17:31,400:WARNING:Could not understand audio.
+2024-10-28 20:17:35,956:WARNING:Could not understand audio.
+2024-10-28 20:19:45,713:WARNING:Could not understand audio.
+2024-10-28 20:27:27,665:WARNING:Could not understand audio.
+2024-10-28 20:28:06,005:WARNING:Could not understand audio.
+2024-10-28 20:36:48,448:WARNING:Could not understand audio.
+2024-10-28 20:36:54,882:WARNING:Could not understand audio.
+2024-10-28 20:37:07,260:WARNING:Could not understand audio.
+2024-10-28 20:37:14,508:WARNING:Could not understand audio.
+2024-10-28 20:37:18,144:WARNING:Could not understand audio.
+2024-10-28 21:12:08,128:WARNING:Could not understand audio.
+2024-10-28 21:12:15,829:WARNING:Could not understand audio.
+2024-10-30 12:07:08,104:WARNING:Could not understand audio.
+2024-11-01 23:42:15,945:WARNING:Could not understand audio.
+2024-11-01 23:42:45,966:WARNING:Could not understand audio.
+2024-11-01 23:45:01,971:WARNING:Could not understand audio.
+2024-11-01 23:45:37,268:WARNING:Could not understand audio.
+2024-11-01 23:46:42,643:WARNING:Could not understand audio.
+2024-11-01 23:46:59,754:WARNING:Could not understand audio.
+2024-11-01 23:49:38,723:INFO:Detected wake word: play jarvis
+2024-11-01 23:49:43,643:INFO:Detected wake word: hey jarvis
+2024-11-01 23:51:14,933:INFO:Detected wake word: hey jarvis
+2024-11-01 23:51:45,456:WARNING:Could not understand audio.
+2024-11-01 23:52:08,896:WARNING:Could not understand audio.
+2024-11-01 23:53:41,296:INFO:Detected wake word: hey jarvis
+2024-11-01 23:53:49,013:WARNING:Could not understand audio.
+2024-11-01 23:53:53,291:WARNING:Could not understand audio.
+2024-11-01 23:55:10,960:INFO:Detected wake word: hey jarvis
+2024-11-02 00:03:22,132:INFO:Detected wake word: play jarvis
+2024-11-02 00:03:26,107:INFO:Detected wake word: hey jarvis
+2024-11-02 00:03:37,721:WARNING:Could not understand audio.
+2024-11-02 00:03:37,727:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 00:03:41,998:WARNING:Could not understand audio.
+2024-11-02 00:03:42,017:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 00:03:46,675:WARNING:Could not understand audio.
+2024-11-02 00:03:46,681:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 00:03:58,020:WARNING:Could not understand audio.
+2024-11-02 00:03:58,025:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 00:04:13,762:WARNING:Could not understand audio.
+2024-11-02 00:04:13,771:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 00:04:31,952:WARNING:Could not understand audio.
+2024-11-02 00:04:31,959:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 00:04:37,765:WARNING:Could not understand audio.
+2024-11-02 00:04:37,770:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 00:06:48,075:INFO:Detected wake word: hello jarvis
+2024-11-02 00:06:53,483:INFO:error_code=model_not_found error_message='The model `text-davinci-003` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-11-02 00:09:48,150:INFO:Detected wake word: hey jarvis
+2024-11-02 00:10:07,577:WARNING:Could not understand audio.
+2024-11-02 00:10:07,601:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 00:10:14,654:WARNING:Could not understand audio.
+2024-11-02 00:10:14,665:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 00:10:28,861:WARNING:Could not understand audio.
+2024-11-02 00:10:28,874:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 00:11:05,148:WARNING:Could not understand audio.
+2024-11-02 00:11:05,154:INFO:Detected wake word: Could not understand audio.
+2024-11-02 00:11:19,047:INFO:Detected wake word: hey jarvis
+2024-11-02 00:15:54,939:WARNING:Could not understand audio.
+2024-11-02 00:15:54,954:INFO:Detected wake word: Could not understand audio.
+2024-11-02 00:15:57,715:INFO:Detected wake word: jarvis
+2024-11-02 00:16:01,724:INFO:Detected wake word: tell me about the universe
+2024-11-02 00:16:05,676:WARNING:Could not understand audio.
+2024-11-02 00:16:05,689:INFO:Detected wake word: Could not understand audio.
+2024-11-02 00:16:08,528:INFO:Detected wake word: jarvis
+2024-11-02 00:16:55,632:INFO:Detected wake word: jarvis
+2024-11-02 00:20:50,353:INFO:Detected wake word: jarvis
+2024-11-02 13:32:06,348:INFO:Detected wake word: open camera
+2024-11-02 13:32:24,515:WARNING:Could not understand audio.
+2024-11-02 13:32:24,522:INFO:Detected wake word: Could not understand audio.
+2024-11-02 13:32:27,431:INFO:Detected wake word: jarvis
+2024-11-02 13:33:15,121:INFO:Detected wake word: jarvis
+2024-11-02 13:35:03,376:INFO:Detected wake word: jarvis
+2024-11-02 13:43:38,800:INFO:Detected wake word: 2 + 2 no it is
+2024-11-02 13:43:42,278:INFO:Detected wake word: jarvis
+2024-11-02 13:43:49,940:WARNING:Could not understand audio.
+2024-11-02 13:43:49,951:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 13:45:30,661:INFO:Detected wake word: jarvis hey jarvis
+2024-11-02 13:46:31,547:INFO:Detected wake word: jarvis
+2024-11-02 13:46:45,967:WARNING:Could not understand audio.
+2024-11-02 13:46:45,979:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 13:46:59,143:WARNING:Could not understand audio.
+2024-11-02 13:46:59,154:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 13:47:03,565:WARNING:Could not understand audio.
+2024-11-02 13:47:03,578:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 13:48:46,897:INFO:Detected wake word: jarvis
+2024-11-02 13:49:04,683:INFO:Detected wake word: open camera
+2024-11-02 13:49:11,294:INFO:Detected wake word: jarvis
+2024-11-02 13:49:15,006:INFO:Detected wake word: camera
+2024-11-02 13:49:28,833:INFO:Detected wake word: jarvis
+2024-11-02 13:49:38,485:WARNING:Could not understand audio.
+2024-11-02 13:49:38,497:INFO:Detected wake word: Could not understand audio.
+2024-11-02 13:49:41,406:INFO:Detected wake word: open camera
+2024-11-02 13:56:16,781:INFO:Detected wake word: jarvis
+2024-11-02 13:56:35,972:WARNING:Could not understand audio.
+2024-11-02 13:56:35,983:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 13:58:13,086:INFO:Detected wake word: jarvis
+2024-11-02 13:59:40,315:INFO:Detected wake word: jarvis
+2024-11-02 13:59:55,489:WARNING:Could not understand audio.
+2024-11-02 13:59:55,498:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 14:07:31,909:WARNING:Could not understand audio.
+2024-11-02 14:07:31,927:INFO:Detected wake word: Could not understand audio.
+2024-11-02 14:07:46,937:WARNING:Could not understand audio.
+2024-11-02 14:07:46,945:INFO:Detected wake word: Could not understand audio.
+2024-11-02 14:07:53,977:WARNING:Could not understand audio.
+2024-11-02 14:07:53,992:INFO:Detected wake word: Could not understand audio.
+2024-11-02 14:08:20,833:INFO:Detected wake word: jarvis
+2024-11-02 14:18:38,694:INFO:Detected wake word: what's 2 + 2
+2024-11-02 14:18:51,340:INFO:Detected wake word: jarvis jarvis
+2024-11-02 14:22:46,985:INFO:Detected wake word: jarvis
+2024-11-02 16:22:00,096:INFO:Detected wake word: jarvis
+2024-11-02 16:22:17,697:WARNING:Could not understand audio.
+2024-11-02 16:22:17,706:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 16:22:20,660:WARNING:Could not understand audio.
+2024-11-02 16:22:20,665:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 16:25:29,801:INFO:Detected wake word: jarvis
+2024-11-02 16:26:04,536:WARNING:Could not understand audio.
+2024-11-02 16:26:04,546:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 16:41:20,926:INFO:Detected wake word: jarvis how are you
+2024-11-02 16:42:26,370:INFO:Detected wake word: jarvis jarvis
+2024-11-02 16:42:57,863:WARNING:Could not understand audio.
+2024-11-02 16:42:57,871:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 16:45:49,100:INFO:Detected wake word: jarvis
+2024-11-02 16:46:21,303:WARNING:Could not understand audio.
+2024-11-02 16:46:21,313:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 16:46:34,822:WARNING:Could not understand audio.
+2024-11-02 16:46:34,827:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 16:49:10,914:INFO:Detected wake word: hey jarvis
+2024-11-02 16:49:35,147:WARNING:Could not understand audio.
+2024-11-02 16:49:35,158:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 16:49:38,782:WARNING:Could not understand audio.
+2024-11-02 16:49:38,789:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 16:49:52,494:WARNING:Could not understand audio.
+2024-11-02 16:49:52,505:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 16:51:52,172:INFO:Detected wake word: jarvis
+2024-11-02 16:53:48,130:INFO:Detected wake word: hey jarvis
+2024-11-02 16:56:11,315:INFO:Detected wake word: hey jarvis
+2024-11-02 16:57:07,924:INFO:Detected wake word: hey jarvis
+2024-11-02 16:58:30,394:INFO:Detected wake word: hey jarvis
+2024-11-02 16:58:57,868:WARNING:Could not understand audio.
+2024-11-02 16:58:57,883:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 16:59:10,710:WARNING:Could not understand audio.
+2024-11-02 16:59:10,722:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:01:28,055:INFO:Detected wake word: hey jarvis
+2024-11-02 17:04:07,840:INFO:Detected wake word: hey jarvis
+2024-11-02 17:16:27,056:INFO:Detected wake word: hey jarvis
+2024-11-02 17:19:15,272:INFO:Detected wake word: hey jarvis
+2024-11-02 17:21:17,763:INFO:Detected wake word: jarvis
+2024-11-02 17:21:58,699:WARNING:Could not understand audio.
+2024-11-02 17:21:58,704:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:22:02,945:WARNING:Could not understand audio.
+2024-11-02 17:22:02,957:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:22:16,952:WARNING:Could not understand audio.
+2024-11-02 17:22:16,959:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:23:57,594:INFO:Detected wake word: hey jarvis
+2024-11-02 17:24:22,665:WARNING:Could not understand audio.
+2024-11-02 17:24:22,678:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:24:28,242:WARNING:Could not understand audio.
+2024-11-02 17:24:28,254:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:24:35,085:WARNING:Could not understand audio.
+2024-11-02 17:24:35,094:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:24:39,155:WARNING:Could not understand audio.
+2024-11-02 17:24:39,169:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:24:42,643:WARNING:Could not understand audio.
+2024-11-02 17:24:42,648:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:26:24,334:INFO:Detected wake word: play jarvis
+2024-11-02 17:26:42,553:WARNING:Could not understand audio.
+2024-11-02 17:26:42,561:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:26:46,662:WARNING:Could not understand audio.
+2024-11-02 17:26:46,669:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:27:00,574:WARNING:Could not understand audio.
+2024-11-02 17:27:00,590:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:27:09,074:WARNING:Could not understand audio.
+2024-11-02 17:27:09,087:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:27:16,752:WARNING:Could not understand audio.
+2024-11-02 17:27:16,758:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:27:35,706:INFO:Detected wake word: hey jarvis
+2024-11-02 17:29:37,328:INFO:Detected wake word: hey jarvis hey jarvis
+2024-11-02 17:30:05,641:WARNING:Could not understand audio.
+2024-11-02 17:30:05,647:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:30:22,583:INFO:Detected wake word: play jarvis
+2024-11-02 17:30:52,133:WARNING:Could not understand audio.
+2024-11-02 17:30:52,145:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:31:07,807:WARNING:Could not understand audio.
+2024-11-02 17:31:07,814:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:31:12,644:WARNING:Could not understand audio.
+2024-11-02 17:31:12,654:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:31:23,704:WARNING:Could not understand audio.
+2024-11-02 17:31:23,713:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:31:30,064:WARNING:Could not understand audio.
+2024-11-02 17:31:30,070:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:31:44,180:WARNING:Could not understand audio.
+2024-11-02 17:31:44,195:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:31:50,468:WARNING:Could not understand audio.
+2024-11-02 17:31:50,479:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:32:04,059:WARNING:Could not understand audio.
+2024-11-02 17:32:04,072:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:32:16,208:WARNING:Could not understand audio.
+2024-11-02 17:32:16,218:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:32:22,158:WARNING:Could not understand audio.
+2024-11-02 17:32:22,167:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:32:26,394:WARNING:Could not understand audio.
+2024-11-02 17:32:26,415:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:38:29,245:INFO:Detected wake word: hey jarvis
+2024-11-02 17:39:26,106:INFO:Detected wake word: hey jarvis
+2024-11-02 17:43:39,680:INFO:Detected wake word: jarvis
+2024-11-02 17:44:10,127:WARNING:Could not understand audio.
+2024-11-02 17:44:10,135:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:44:14,910:WARNING:Could not understand audio.
+2024-11-02 17:44:14,928:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-02 17:45:21,737:INFO:Detected wake word: hey jarvis
+2024-11-02 17:47:23,951:INFO:Detected wake word: set volume to 25
+2024-11-02 17:47:26,935:INFO:Detected wake word: jarvis
+2024-11-03 13:06:57,857:INFO:Detected wake word: jarvis
+2024-11-03 13:07:05,385:INFO:Listening timed out.
+2024-11-03 13:07:05,411:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-03 13:07:59,031:INFO:Listening timed out.
+2024-11-03 13:07:59,054:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-03 13:08:05,160:INFO:Listening timed out.
+2024-11-03 13:08:05,173:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-03 13:08:33,798:INFO:Detected wake word: jarvis
+2024-11-03 13:08:47,313:INFO:Listening timed out.
+2024-11-03 13:08:47,339:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-03 13:09:24,755:INFO:Detected wake word: what jarvis
+2024-11-03 13:09:38,788:WARNING:Could not understand audio.
+2024-11-03 13:09:38,797:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-03 13:09:44,510:WARNING:Could not understand audio.
+2024-11-03 13:09:44,515:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-03 13:09:48,372:WARNING:Could not understand audio.
+2024-11-03 13:09:48,378:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-03 13:10:10,739:INFO:Detected wake word: hey jarvis
+2024-11-03 13:10:26,026:WARNING:Could not understand audio.
+2024-11-03 13:10:26,031:WARNING:Failed to detect wake word or received an empty query: {query}
+2024-11-03 13:10:36,895:INFO:Detected wake word: play jarvis
+2024-11-03 13:14:27,323:INFO:Detected wake word: jarvis
+2024-11-03 13:21:37,270:INFO:Detected wake word: hey jarvis hey jarvis
+2024-11-03 13:21:48,313:INFO:Detected wake word: open camera
+2024-11-03 13:21:58,675:INFO:Detected wake word: what's 2 + 2
+2024-11-03 13:30:42,193:INFO:Detected wake word: open camera
+2024-11-03 13:30:45,587:INFO:Detected wake word: hey jarvis
+2024-11-03 13:31:11,663:INFO:Detected wake word: i'm doing well actually
+2024-11-03 13:31:26,139:INFO:Detected wake word: hey jarvis jarvis
+2024-11-03 13:31:49,151:WARNING:Could not understand audio.
+2024-11-03 13:31:49,157:INFO:Detected wake word: Could not understand audio.
+2024-11-03 13:31:59,328:INFO:Detected wake word: jarvis
+2024-11-03 13:32:39,618:WARNING:Could not understand audio.
+2024-11-03 13:32:39,633:INFO:Detected wake word: Could not understand audio.
+2024-11-03 13:32:54,217:INFO:Detected wake word: jarvis hey jarvis hey jarvis
+2024-11-03 13:35:54,244:INFO:Detected command: give me a simple recipy for brownies
+2024-11-03 13:37:20,048:INFO:Detected command: how are you?
+2024-11-03 13:37:55,132:INFO:Detected command: what is it like being chat gpt
+2024-11-03 13:38:03,052:INFO:Detected command: search for facebook marketplace
+2024-11-03 13:55:43,297:INFO:Detected command: how good are you at physics
+2024-11-03 13:56:17,319:INFO:Detected command: open camera
+2024-11-03 14:23:09,323:INFO:Detected command: start image
